@@ -11,9 +11,9 @@
             "Value": 493.44
         },
         "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
-            "weekday": 1,
-            "time_of_day": "Evening Mean Travel Time",
-            "Value": 1166.1923076923076
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 729.7074066203901
         }
     },
     "Embarcadero, San Francisco, CA": {
@@ -23,82 +23,82 @@
             "Value": 407.0
         },
         "Fisherman's Wharf, 286-298 Jefferson St, San Francisco, CA": {
-            "weekday": 4,
+            "weekday": 6,
             "time_of_day": "Early Morning Mean Travel Time",
-            "Value": 439.4230769230769
+            "Value": 419.440926476838
         },
         "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
-            "weekday": 0,
-            "time_of_day": "Evening Mean Travel Time",
-            "Value": 977.08
+            "weekday": 5,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 693.873412192473
         }
     },
     "Fisherman's Wharf, 286-298 Jefferson St, San Francisco, CA": {
         "Embarcadero, San Francisco, CA": {
-            "weekday": 5,
+            "weekday": 6,
             "time_of_day": "Early Morning Mean Travel Time",
-            "Value": 519.0
+            "Value": 451.75736648250466
         },
         "Powell BART Station, Market St and Powell St, San Francisco, CA": {
-            "weekday": 3,
+            "weekday": 0,
             "time_of_day": "Early Morning Mean Travel Time",
-            "Value": 648.0
+            "Value": 602.2643523634132
         },
-        "2nd Street and Stevenson Street (Montgomery BART, San Francisco, CA": {
+        "2nd Street and Stevenson Street, San Francisco, CA": {
             "weekday": 3,
             "time_of_day": "Early Morning Mean Travel Time",
             "Value": 673.3076923076923
         }
     },
     "Oracle Park, 24 Willie Mays Plaza, San Francisco, CA": {
-        "2nd Street and Stevenson Street (Montgomery BART, San Francisco, CA": {
+        "Embarcadero, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 316.26175803938236
+        },
+        "2nd Street and Stevenson Street, San Francisco, CA": {
             "weekday": 0,
             "time_of_day": "Early Morning Mean Travel Time",
             "Value": 347.52
         },
-        "Embarcadero, San Francisco, CA": {
-            "weekday": 2,
-            "time_of_day": "Early Morning Mean Travel Time",
-            "Value": 364.3076923076923
-        },
         "Powell BART Station, Market St and Powell St, San Francisco, CA": {
-            "weekday": 5,
+            "weekday": 6,
             "time_of_day": "Early Morning Mean Travel Time",
-            "Value": 511.0
+            "Value": 492.37092128252345
         }
     },
     "Powell BART Station, Market St and Powell St, San Francisco, CA": {
         "Oracle Park, 24 Willie Mays Plaza, San Francisco, CA": {
-            "weekday": 6,
-            "time_of_day": "Evening Mean Travel Time",
-            "Value": 569.7307692307693
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 467.88904849600976
         },
         "Fisherman's Wharf, 286-298 Jefferson St, San Francisco, CA": {
-            "weekday": 3,
+            "weekday": 0,
             "time_of_day": "Early Morning Mean Travel Time",
-            "Value": 619.5
+            "Value": 525.8524831184776
         },
         "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
-            "weekday": 3,
-            "time_of_day": "Midday Mean Travel Time",
-            "Value": 1049.7692307692307
+            "weekday": 5,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 762.1635323700245
         }
     },
     "The Palace Of Fine Arts, 3601 Lyon St, San Francisco, CA": {
-        "2nd Street and Stevenson Street (Montgomery BART, San Francisco, CA": {
-            "weekday": 3,
-            "time_of_day": "Early Morning Mean Travel Time",
-            "Value": 979.0
-        },
-        "Powell BART Station, Market St and Powell St, San Francisco, CA": {
-            "weekday": 1,
-            "time_of_day": "Evening Mean Travel Time",
-            "Value": 1113.5
-        },
         "Embarcadero, San Francisco, CA": {
             "weekday": 6,
-            "time_of_day": "Evening Mean Travel Time",
-            "Value": 1149.5
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 756.2052698682534
+        },
+        "Powell BART Station, Market St and Powell St, San Francisco, CA": {
+            "weekday": 0,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 839.9757243707795
+        },
+        "2nd Street and Stevenson Street, San Francisco, CA": {
+            "weekday": 6,
+            "time_of_day": "Early Morning Mean Travel Time",
+            "Value": 867.4055284034565
         }
     }
 }
